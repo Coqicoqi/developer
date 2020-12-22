@@ -1,0 +1,2 @@
+# developer
+pertama mencoba git
